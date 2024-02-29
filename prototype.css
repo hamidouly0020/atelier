@@ -1,0 +1,83 @@
+body{
+    font-family: sans-serif;
+}
+img{
+    object-fit: cover;
+}
+.i1{
+    width: 50px;
+    height: 60px;
+    padding-left: 20px;
+}
+.conteneur{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.black{
+    display: flex;
+    background-color: black;
+    background-attachment: fixed;
+    font-size: 6px;
+    padding-top: 5px;
+    text-decoration: none;
+}
+.white{
+    color: black;
+}
+th{
+    padding-right: 20px;
+    border-right: 1px solid #c0b8b8;
+}
+.i-puma{
+    text-align: center;
+    padding-top: 70px;
+}
+.i2{
+    width: 60px;
+    height: 60px;
+}
+.puma{
+    background-image: url('Capture\ d\'écran\ 2024-02-27\ 235321.png');
+    /*background-size: 100%;*/
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+input[type='submit']{
+    align-items: center;
+    justify-content: center;
+    color:white;
+    background-color: black;
+    border: 1px solid white;
+    height: 30px;
+}
+.inp{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 70px;
+}
+.mont-sneack{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.i3{
+    width: 200px;
+    height: 200px;
+}
+.i4{
+    width: 200px;
+    height: 200px;
+}
+.conteneur2{
+    position: absolute;
+    bottom: -110px;
+    left: 40%;
+    background-color: #c0b8b8;
+}
